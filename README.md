@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**LorenzKuehl/LorenzKuehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
---!>
 - 🔭 I’m currently working on setting up github  
 - 🌱 I’m currently learning how to setup github  
 - 👯 I’m looking to collaborate on exciting projects  
